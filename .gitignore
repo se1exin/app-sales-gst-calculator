@@ -1,0 +1,4 @@
+config/*
+!config/config.example.json
+venv
+.DS_Store
